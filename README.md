@@ -10,6 +10,7 @@ I'm currently:
 [<img align="left" alt="mwingter | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="mwingter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="mwingter | Itch-io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/itch-dot-io.svg" />][itch-io] 
+[<img align="left" alt="mwingter | Itch-io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />][github] 
 
 <br />
 
@@ -41,7 +42,6 @@ I'm currently:
 
 </details>
 
----
 <br />
 
 
@@ -50,3 +50,4 @@ I'm currently:
 [instagram]: https://www.instagram.com/mwingter/
 [facebook]: https://www.facebook.com/mwingter/
 [itch-io]: https://mwingter.itch.io/
+[github]: https://github.com/mwingter
