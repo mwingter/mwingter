@@ -47,11 +47,11 @@ I'm currently:
 <details>
   <summary>:zap: Top Used Languages</summary>
 
-  <img align="left" alt="mwingter's Top Languages" src="https://github-readme-stats.vercel.app/api?username=mwingter&show_icons=true&hide_border=true" />
+  <img align="left" alt="mwingter's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwingter&show_icons=true&hide_border=true" />
 
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwingter)](https://github.com/mwingter/github-readme-stats)
+
 
 
 
