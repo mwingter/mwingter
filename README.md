@@ -7,7 +7,7 @@ I'm currently:
 - 📫 How to reach me: 
 [![Linkedin badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwingter/)](https://www.linkedin.com/in/mwingter/)
 [![Facebook badge](https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/mwingter/)](https://www.facebook.com/mwingter/)
-[![Itch_badge](https://img.shields.io/badge/-Itch-io-blue?logo=Itch-io&logoColor=white&link=https://mwingter.itch.io/)](https://mwingter.itch.io/)
+[![Itch_badge](https://img.shields.io/badge/-Itch-blue?logo=Itch-io&logoColor=white&link=https://mwingter.itch.io/)](https://mwingter.itch.io/)
 
 
 
