@@ -13,4 +13,6 @@ I'm currently:
 [<img align="left" alt="mwingter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mwingter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: https://linkedin.com/in/mwingter
+[linkedin]: https://linkedin.com/in/mwingter/
+[instagram]: https://www.instagram.com/mwingter/
+[facebook]: https://www.facebook.com/mwingter/
