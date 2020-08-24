@@ -34,6 +34,7 @@ I'm currently:
 
 <br />
 <br />
+<br />
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -42,7 +43,7 @@ I'm currently:
 
 </details>
 
-<br />
+
 
 <details>
   <summary>:zap: Top Used Languages</summary>
