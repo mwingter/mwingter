@@ -5,6 +5,7 @@ I'm currently:
 - :octocat: Learning everything, but mostly more about Web Development.
 
 - 📫 How to reach me: 
+
 [<img align="left" alt="mwingter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mwingter | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="mwingter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
