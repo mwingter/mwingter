@@ -10,7 +10,9 @@ I'm currently:
 ### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki
 {: #tanuki-purple}
 
-<i class="fab fa-facebook-square"></i>
+<i class="fab fa-facebook-square">Facebook</i>
+
+<i class="fab fa-linkedin">Facebook</i>
 
 <!--
 - 👯 I’m looking to collaborate on ...
