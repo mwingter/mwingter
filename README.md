@@ -1,4 +1,6 @@
+<head>
 <script src="https://kit.fontawesome.com/07d42fc4f4.js" crossorigin="anonymous"></script>
+ </head>
 ### Hi there 👋
 I'm a B.S. Computer Science student, passionate about technology and increasinly in love with Web Development. 
 I'm currently:
