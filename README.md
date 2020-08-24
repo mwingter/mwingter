@@ -37,13 +37,14 @@ I'm currently:
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="mwingter's Github Stats" src="https://github-readme-stats.mwingter.vercel.app/api?username=mwingter&show_icons=true&hide_border=true" />
 
 </details>
 
+---
 <br />
 
----
+
 
 [linkedin]: https://linkedin.com/in/mwingter/
 [instagram]: https://www.instagram.com/mwingter/
