@@ -44,6 +44,8 @@ I'm currently:
 
 <br />
 
+[![mwingter's github stats](https://github-readme-stats.vercel.app/api?username=mwingter)](https://github.com/mwingter/github-readme-stats)
+
 
 
 [linkedin]: https://linkedin.com/in/mwingter/
