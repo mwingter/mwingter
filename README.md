@@ -9,8 +9,8 @@ I'm currently:
 [Facebook](https://www.facebook.com/mwingter) 
 [Itch](https://mwingter.itch.io/)
 
-[![Linkedin badge](https://img.shields.io/badge/-Henrique%20dos%20Santos-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwingter/)](https://www.linkedin.com/in/mwingter/)
-[![Facebook badge](https://img.shields.io/badge/-Henrique%20dos%20Santos-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/mwingter/)](https://www.facebook.com/mwingter/)
+[![Linkedin badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwingter/)](https://www.linkedin.com/in/mwingter/)
+[![Facebook badge](https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/mwingter/)](https://www.facebook.com/mwingter/)
 
 
 
