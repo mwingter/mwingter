@@ -8,7 +8,7 @@ I'm currently:
 [LinkedIn](https://www.linkedin.com/in/mwingter/) [Facebook](https://www.facebook.com/mwingter) [Itch](https://mwingter.itch.io/)
 
 
-### <i class="fab fa-facebook-square" href="https://www.facebook.com/mwingter">Facebook</i>
+### <button class="fab fa-facebook-square" href="https://www.facebook.com/mwingter">Facebook</button>
 
 ### <i class="fab fa-linkedin" href="https://www.linkedin.com/in/mwingter/"></i>
 
