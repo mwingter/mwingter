@@ -48,13 +48,7 @@ I'm currently:
 
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="mwingter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mwingter&show_icons=true&line_height=27&count_private=true&theme=bear" />
-  <img align="left" alt="mwingter's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwingter&theme=bear" />
-
-</details>
 
 
 
