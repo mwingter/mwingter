@@ -48,7 +48,7 @@ I'm currently:
 
 </details>
 
-[![mwingter's github stats](https://github-readme-stats.vercel.app/api?username=mwingter)](https://github.com/mwingter/github-readme-stats&hide=issues)
+[![mwingter's github stats](https://github-readme-stats.vercel.app/api?username=mwingter&hide=issues)](https://github.com/mwingter/github-readme-stats)
 
 
 
