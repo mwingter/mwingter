@@ -50,10 +50,7 @@ I'm currently:
 
 </details>
 
-[![mwingter's github stats](https://github-readme-stats.vercel.app/api?username=mwingter&hide=issues)](https://github.com/mwingter/github-readme-stats)
 
-
-  <img align="left" alt="mwingter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mwingter&show_icons=true&hide_border=true" />
 
 [linkedin]: https://linkedin.com/in/mwingter/
 [instagram]: https://www.instagram.com/mwingter/
