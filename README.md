@@ -46,17 +46,16 @@ I'm currently:
 </details>
 
 
-<!--
 <details>
-  <summary>:zap: Top Used Languages</summary>
+  <summary>:zap: Github Stats</summary>
 
-  
+  <img align="left" alt="mwingter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mwingter&
+show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="left" alt="mwingter's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwingter&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 </details>
--->
 
-
-
+show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21
 
 [linkedin]: https://linkedin.com/in/mwingter/
 [instagram]: https://www.instagram.com/mwingter/
