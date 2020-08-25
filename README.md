@@ -43,7 +43,9 @@ I'm currently:
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="mwingter's Github Stats" https://github-readme-stats.vercel.app/api?username=mwingter&show_icons=true&hide_border=true" />
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mwingter&show_icons=true&hide_border=true&count_private=true" alt="mwingter's GitHub Stats" />
+</a>
   <img align="left" alt="mwingter's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwingter&show_icons=true&hide_border=true" />
 
 </details>
@@ -51,6 +53,7 @@ I'm currently:
 [![mwingter's github stats](https://github-readme-stats.vercel.app/api?username=mwingter&hide=issues)](https://github.com/mwingter/github-readme-stats)
 
 
+  <img align="left" alt="mwingter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mwingter&show_icons=true&hide_border=true" />
 
 [linkedin]: https://linkedin.com/in/mwingter/
 [instagram]: https://www.instagram.com/mwingter/
