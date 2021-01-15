@@ -44,9 +44,9 @@ I'm currently:
   <summary>:zap: Github Stats</summary>
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mwingter&show_icons=true&hide_border=true&count_private=true" alt="mwingter's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mwingter&show_icons=true&hide_border=true&count_private=true" align="left" alt="mwingter's GitHub Stats" />
 </a>
-  <img align="left" alt="mwingter's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwingter&show_icons=true&hide_border=true" />
+  <img alt="mwingter's Top Languages" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwingter&show_icons=true&hide_border=true" />
 
 </details>
 
