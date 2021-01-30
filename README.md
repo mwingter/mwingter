@@ -15,8 +15,6 @@ I'm currently:
 <br />
 
 --- 
-<br />
-
 
 #### Languages and Tools:
 
