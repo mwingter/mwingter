@@ -13,7 +13,7 @@ I'm currently:
 [<img align="left" alt="mwingter | Itch-io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />][github] 
 
 <br />
-
+<br />
 
 #### :floppy_disk: Languages and Tools:
 
@@ -34,7 +34,6 @@ I'm currently:
 <img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
 <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 
-<br />
 <br />
 <br />
 
