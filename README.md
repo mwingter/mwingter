@@ -1,11 +1,11 @@
 ### Hi there, I'm Michelle 👋
-#### I'm a B.S. Computer Science student at [ICMC-USP](https://www.icmc.usp.br/), passionate about technology and increasinly in love with Web Development. 
+##### :information_desk_person: I'm a B.S. Computer Science student at [ICMC-USP](https://www.icmc.usp.br/), passionate about technology and increasinly in love with Web Development. 
 I'm currently:
 - :computer: Working at [Elo7](https://github.com/elo7) as a Software Engineer Intern.
 - 🔭 Coordinating [PET Computação](https://github.com/pet-comp) and [USP Codelab](http://uclsanca.icmc.usp.br/), which are both extracurriculars on [ICMC-USP](https://www.icmc.usp.br/).
 - :octocat: Learning everything, but mostly more about Web Development.
 
-📫 How to reach me: 
+#### 📫 How to reach me: 
 
 [<img align="left" alt="mwingter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mwingter | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -16,7 +16,7 @@ I'm currently:
 
 -----
 
-#### Languages and Tools:
+#### :floppy_disk: Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
