@@ -14,7 +14,6 @@ I'm currently:
 
 <br />
 
------
 
 #### :floppy_disk: Languages and Tools:
 
