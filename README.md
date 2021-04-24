@@ -1,21 +1,21 @@
 <pre>
-                     _   .-')      (`\ .-') /`            .-') _             .-') _     ('-.  _  .-')   
-                    ( '.( OO )_     `.( OO ),'           ( OO ) )           (  OO) )  _(  OO)( \( -O )  
-                     ,--.   ,--.),--./  .--.  ,-.-') ,--./ ,--,'  ,----.    /     '._(,------.,------.  
-                     |   `.'   | |      |  |  |  |OO)|   \ |  |\ '  .-./-') |'--...__)|  .---'|   /`. ' 
-                     |         | |  |   |  |, |  |  \|    \|  | )|  |_( O- )'--.  .--'|  |    |  /  | | 
-                     |  |'.'|  | |  |.'.|  |_)|  |(_/|  .     |/ |  | .--, \   |  |  (|  '--. |  |_.' | 
-                     |  |   |  | |         | ,|  |_.'|  |\    | (|  | '. (_/   |  |   |  .--' |  .  '.' 
-                     |  |   |  | |   ,'.   |(_|  |   |  | \   |  |  '--'  |    |  |   |  `---.|  |\  \  
-                     `--'   `--' '--'   '--'  `--'   `--'  `--'   `------'     `--'   `------'`--' '--'        
+               _   .-')      (`\ .-') /`            .-') _             .-') _     ('-.  _  .-')   
+              ( '.( OO )_     `.( OO ),'           ( OO ) )           (  OO) )  _(  OO)( \( -O )  
+               ,--.   ,--.),--./  .--.  ,-.-') ,--./ ,--,'  ,----.    /     '._(,------.,------.  
+               |   `.'   | |      |  |  |  |OO)|   \ |  |\ '  .-./-') |'--...__)|  .---'|   /`. ' 
+               |         | |  |   |  |, |  |  \|    \|  | )|  |_( O- )'--.  .--'|  |    |  /  | | 
+               |  |'.'|  | |  |.'.|  |_)|  |(_/|  .     |/ |  | .--, \   |  |  (|  '--. |  |_.' | 
+               |  |   |  | |         | ,|  |_.'|  |\    | (|  | '. (_/   |  |   |  .--' |  .  '.' 
+               |  |   |  | |   ,'.   |(_|  |   |  | \   |  |  '--'  |    |  |   |  `---.|  |\  \  
+               `--'   `--' '--'   '--'  `--'   `--'  `--'   `------'     `--'   `------'`--' '--'        
 </pre>
 <!-- https://manytools.org/hacker-tools/ascii-banner/ -->
 
 ### Hi there, I'm Michelle 👋
 ##### :information_desk_person: I'm a B.S. Computer Science student at [ICMC-USP](https://www.icmc.usp.br/), passionate about technology and increasinly in love with Web Development. 
 I'm currently:
-- :computer: Working at [Elo7](https://github.com/elo7) as a Software Engineer Intern.
-- 🔭 Volunteering at [USP Codelab](http://uclsanca.icmc.usp.br/), which is an extracurricular at [ICMC-USP](https://www.icmc.usp.br/).
+- :computer: Working at [Elo7](https://github.com/elo7) as a Software Engineer Intern - Front-End.
+- 🔭 Volunteering at [USP Codelab](http://uclsanca.icmc.usp.br/), which is an extracurricular focused on Web Development at [ICMC-USP](https://www.icmc.usp.br/).
 - :octocat: Learning everything, but mostly more about Web Development.
 
 #### 📫 How to reach me: 
