@@ -15,10 +15,10 @@
 ##### I'm a B.S. Computer Science student at [ICMC-USP](https://www.icmc.usp.br/), passionate about technology and increasinly in love with Web Development. 
 I'm currently:
 - :computer: Working at [Elo7](https://github.com/elo7) as a Software Engineer Intern - Front-End.
-- :revolving_hearts: Member at [USP Codelab](http://uclsanca.icmc.usp.br/) and [Semcomp](https://semcomp.icmc.usp.br/) which both extracurriculars at [ICMC-USP](https://www.icmc.usp.br/).
+- :handshake: Member at [USP Codelab](http://uclsanca.icmc.usp.br/) and [Semcomp](https://semcomp.icmc.usp.br/) which both extracurriculars at [ICMC-USP](https://www.icmc.usp.br/).
 - :book: Learning everything, but mostly more about Web Development.
 
-#### 📫 How to reach me: 
+#### How to reach me: 
 
 [<img align="left" alt="mwingter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mwingter | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -28,7 +28,7 @@ I'm currently:
 <br />
 <br />
 
-#### :floppy_disk: Languages and Tools:
+#### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -49,9 +49,10 @@ I'm currently:
 
 <br />
 <br />
+<br />
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary><b>Github Stats :zap::</b></summary>
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=mwingter&show_icons=true&hide_border=true&count_private=true" align="left" alt="mwingter's GitHub Stats" />
