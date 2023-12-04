@@ -14,7 +14,7 @@
 ### Hi there, I'm Michelle :information_desk_person:
 ##### I'm a Computer Scientist graduated at [ICMC-USP](https://www.icmc.usp.br/), passionate about technology and increasinly in love with Web Development. 
 I'm currently:
-- :computer: Working at [Elo7](https://www.elo7.com.br/) as a Software Engineer Jr. - Front-End.
+- :computer: Working at [Elo7](https://www.elo7.com.br/) as a Software Engineer - Front-End.
 - :book: Learning everything, but mostly more about Web Development.
 
 #### How to reach me: 
